@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ishraspberry
-- 👀 I’m interested in web dev, networks, and art
+- 👋 Hi, I’m Ishrat <3 your local klutz and a third year comp sci student
+- 👀 I’m interested in web dev, networks, and art 
 - 🌱 I’m currently learning how iptables work...
 - 📫 reach me via email: ishratnaba2002@gmail.com
 
